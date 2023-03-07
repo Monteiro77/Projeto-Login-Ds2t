@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">loginActivity</string>
+    <string name="title">Login</string>
+    <string name="subtitle">Please sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="email_example">teste@email.com</string>
+    <string name="password">Password</string>
+    <string name="password_example">type your password here</string>
+    <string name="sing_in">SIGN IN</string>
+    <string name="dont_account">Don’t have an account?</string>
+    <string name="singup">Sign Up</string>
+</resources>
